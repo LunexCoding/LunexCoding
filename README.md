@@ -10,9 +10,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 - 🌱 I’m currently learning: ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me:
-  <a href="https://vk.com/lunexcoding">
-    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Vkontakte Badge">
-  </a>
   <a href="https://discordapp.com/users/886987765936427028/">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
