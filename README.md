@@ -47,8 +47,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
   
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunexCoding&langs_count=5&layout=compact&theme=tokyonight&hide=JavaScript&&exclude_repo=ML-Olimp">
 
-![Snake animation](https://github.com/LunexCoding/LunexCoding/blob/output/github-contribution-grid-snake.svg)
-
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunexCoding)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LunexCoding)
