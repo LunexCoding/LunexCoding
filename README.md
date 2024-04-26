@@ -2,12 +2,8 @@
   <img src="https://media2.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif?cid=ecf05e478aqeq5ydvn5iacgvhufvbjn5vubhemy1wvh8tfuf&ep=v1_stickers_search&rid=giphy.gif" width="100"/>
 </div>
 
-## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+I am a self-taught programmer who is currently a student. I've sailed into the world of programming through simple Python scripts 4 years ago. I am a humble beginner and I want to learn more and get better, still undecided on the direction.
 
-I am a self-taught programmer who is currently a student. I've sailed into the world of programming through simple Python scripts 3 years ago. I am a humble beginner and I want to learn more and get better, still undecided on the direction.
-
-- 🔭 I’m currently working on: [Digital Reporting NHTK](https://github.com/LunexCoding/DigitalReportingNHTK)
-- 🌱 I’m currently learning: ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 📫 How to reach me:
   <a href="https://discordapp.com/users/886987765936427028/">
@@ -38,8 +34,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 #### Looking forward to learn:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ## ⚙️ Git Stats
 
